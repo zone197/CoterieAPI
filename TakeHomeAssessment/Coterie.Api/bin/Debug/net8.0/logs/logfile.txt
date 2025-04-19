@@ -1,0 +1,61 @@
+2025-04-19 14:27:53.8383 Info Now listening on: https://localhost:7059 
+2025-04-19 14:27:53.8548 Info Now listening on: http://localhost:5232 
+2025-04-19 14:27:53.9484 Info Application started. Press Ctrl+C to shut down. 
+2025-04-19 14:27:53.9484 Info Hosting environment: Development 
+2025-04-19 14:27:53.9484 Info Content root path: C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api 
+2025-04-19 14:30:58.2159 Info Now listening on: https://localhost:7059 
+2025-04-19 14:30:58.2293 Info Now listening on: http://localhost:5232 
+2025-04-19 14:30:58.2659 Info Application started. Press Ctrl+C to shut down. 
+2025-04-19 14:30:58.2659 Info Hosting environment: Development 
+2025-04-19 14:30:58.2659 Info Content root path: C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api 
+2025-04-19 14:31:17.2627 Info Now listening on: http://localhost:5232 
+2025-04-19 14:31:17.2989 Info Application started. Press Ctrl+C to shut down. 
+2025-04-19 14:31:17.2989 Info Hosting environment: Development 
+2025-04-19 14:31:17.2989 Info Content root path: C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api 
+2025-04-19 14:31:17.7148 Info Request starting HTTP/1.1 GET http://localhost:5232/swagger - - - 
+2025-04-19 14:31:17.8378 Info Request finished HTTP/1.1 GET http://localhost:5232/swagger - 301 0 - 123.1922ms 
+2025-04-19 14:31:17.8378 Info Request starting HTTP/1.1 GET http://localhost:5232/swagger/index.html - - - 
+2025-04-19 14:31:17.8863 Info Request finished HTTP/1.1 GET http://localhost:5232/swagger/index.html - 200 - text/html;charset=utf-8 45.4930ms 
+2025-04-19 14:31:17.9115 Info Request starting HTTP/1.1 GET http://localhost:5232/swagger/swagger-ui.css - - - 
+2025-04-19 14:31:17.9115 Info Request starting HTTP/1.1 GET http://localhost:5232/swagger/swagger-ui-bundle.js - - - 
+2025-04-19 14:31:17.9115 Info Request starting HTTP/1.1 GET http://localhost:5232/swagger/swagger-ui-standalone-preset.js - - - 
+2025-04-19 14:31:17.9115 Info Request starting HTTP/1.1 GET http://localhost:5232/_framework/aspnetcore-browser-refresh.js - - - 
+2025-04-19 14:31:17.9236 Info Request finished HTTP/1.1 GET http://localhost:5232/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript;+charset=utf-8 2.0402ms 
+2025-04-19 14:31:17.9236 Info Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A' 
+2025-04-19 14:31:17.9236 Info Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A' 
+2025-04-19 14:31:17.9387 Info Request finished HTTP/1.1 GET http://localhost:5232/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 17.6660ms 
+2025-04-19 14:31:17.9387 Info Request finished HTTP/1.1 GET http://localhost:5232/swagger/swagger-ui.css - 200 152034 text/css 27.1788ms 
+2025-04-19 14:31:17.9387 Info Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A' 
+2025-04-19 14:31:17.9387 Info Request finished HTTP/1.1 GET http://localhost:5232/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 25.0644ms 
+2025-04-19 14:31:17.9622 Info Request starting HTTP/1.1 GET http://localhost:5232/_vs/browserLink - - - 
+2025-04-19 14:31:18.0509 Info Request finished HTTP/1.1 GET http://localhost:5232/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 88.6366ms 
+2025-04-19 14:31:18.0902 Info Request starting HTTP/1.1 GET http://localhost:5232/swagger/v1/swagger.json - - - 
+2025-04-19 14:31:18.1000 Info Request starting HTTP/1.1 GET http://localhost:5232/swagger/favicon-32x32.png - - - 
+2025-04-19 14:31:18.1000 Info Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A' 
+2025-04-19 14:31:18.1000 Info Request finished HTTP/1.1 GET http://localhost:5232/swagger/favicon-32x32.png - 200 628 image/png 1.0046ms 
+2025-04-19 14:31:18.1000 Info Request finished HTTP/1.1 GET http://localhost:5232/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 17.0593ms 
+2025-04-19 14:33:52.2882 Info Request starting HTTP/2 GET https://localhost:44394/swagger - - - 
+2025-04-19 14:33:52.3043 Info Application started. Press Ctrl+C to shut down. 
+2025-04-19 14:33:52.3043 Info Hosting environment: Development 
+2025-04-19 14:33:52.3043 Info Content root path: C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api 
+2025-04-19 14:33:52.4742 Info Request starting HTTP/2 GET https://localhost:44394/swagger/index.html - - - 
+2025-04-19 14:33:52.4856 Info Request finished HTTP/2 GET https://localhost:44394/swagger - 301 - - 208.4879ms 
+2025-04-19 14:33:52.5277 Info Request finished HTTP/2 GET https://localhost:44394/swagger/index.html - 200 - text/html;charset=utf-8 51.5384ms 
+2025-04-19 14:33:52.5382 Info Request starting HTTP/2 GET https://localhost:44394/swagger/swagger-ui.css - - - 
+2025-04-19 14:33:52.5382 Info Request starting HTTP/2 GET https://localhost:44394/swagger/swagger-ui-standalone-preset.js - - - 
+2025-04-19 14:33:52.5382 Info Request starting HTTP/2 GET https://localhost:44394/swagger/swagger-ui-bundle.js - - - 
+2025-04-19 14:33:52.5382 Info Request starting HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - - - 
+2025-04-19 14:33:52.5514 Info Request finished HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript;+charset=utf-8 4.3970ms 
+2025-04-19 14:33:52.5687 Info Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A' 
+2025-04-19 14:33:52.5687 Info Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A' 
+2025-04-19 14:33:52.5687 Info Request finished HTTP/2 GET https://localhost:44394/swagger/swagger-ui.css - 200 152034 text/css 37.0321ms 
+2025-04-19 14:33:52.5811 Info Request finished HTTP/2 GET https://localhost:44394/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 34.5349ms 
+2025-04-19 14:33:52.5811 Info Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A' 
+2025-04-19 14:33:52.5811 Info Request starting HTTP/2 GET https://localhost:44394/_vs/browserLink - - - 
+2025-04-19 14:33:52.6147 Info Request finished HTTP/2 GET https://localhost:44394/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 66.5189ms 
+2025-04-19 14:33:52.6351 Info Request finished HTTP/2 GET https://localhost:44394/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 45.2501ms 
+2025-04-19 14:33:52.7288 Info Request starting HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - - - 
+2025-04-19 14:33:52.7434 Info Request finished HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 14.5201ms 
+2025-04-19 14:33:52.7434 Info Request starting HTTP/2 GET https://localhost:44394/swagger/favicon-32x32.png - - - 
+2025-04-19 14:33:52.7434 Info Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A' 
+2025-04-19 14:33:52.7434 Info Request finished HTTP/2 GET https://localhost:44394/swagger/favicon-32x32.png - 200 628 image/png 2.1953ms 

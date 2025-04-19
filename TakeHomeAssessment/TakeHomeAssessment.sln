@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coterie.Api", "Coterie.Api\Coterie.Api.csproj", "{F3ECDF88-3357-4ED1-9F67-A061AC955337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coterie.UnitTests", "Coterie.UnitTests\Coterie.UnitTests.csproj", "{E4C043BA-83B2-4580-91E2-BA95074B30C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3ECDF88-3357-4ED1-9F67-A061AC955337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3ECDF88-3357-4ED1-9F67-A061AC955337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3ECDF88-3357-4ED1-9F67-A061AC955337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3ECDF88-3357-4ED1-9F67-A061AC955337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4C043BA-83B2-4580-91E2-BA95074B30C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C043BA-83B2-4580-91E2-BA95074B30C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C043BA-83B2-4580-91E2-BA95074B30C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C043BA-83B2-4580-91E2-BA95074B30C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35EE159D-4B1F-40F7-BBF8-EF3970070E43}
+	EndGlobalSection
+EndGlobal
