@@ -1,0 +1,13 @@
+C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\bin\Debug\net8.0\MiniRater.deps.json
+C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\bin\Debug\net8.0\MiniRater.dll
+C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\bin\Debug\net8.0\MiniRater.pdb
+C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\obj\Debug\net8.0\MiniRater.csproj.AssemblyReference.cache
+C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\obj\Debug\net8.0\MiniRater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\obj\Debug\net8.0\MiniRater.AssemblyInfoInputs.cache
+C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\obj\Debug\net8.0\MiniRater.AssemblyInfo.cs
+C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\obj\Debug\net8.0\MiniRater.csproj.CoreCompileInputs.cache
+C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\obj\Debug\net8.0\MiniRater.sourcelink.json
+C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\obj\Debug\net8.0\MiniRater.dll
+C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\obj\Debug\net8.0\refint\MiniRater.dll
+C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\obj\Debug\net8.0\MiniRater.pdb
+C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\obj\Debug\net8.0\ref\MiniRater.dll
