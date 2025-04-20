@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Coterie.UnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de368cbf6364a2313fb724f34e30c9a932311bcd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94694d8fc0ba89adff2e0467ef2e174fa8a5b58a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Coterie.UnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Coterie.UnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
