@@ -39,3 +39,9 @@ C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api\obj\Debug\net8.0\refint\Co
 C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api\obj\Debug\net8.0\Coterie.Api.pdb
 C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api\obj\Debug\net8.0\Coterie.Api.genruntimeconfig.cache
 C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api\obj\Debug\net8.0\ref\Coterie.Api.dll
+C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api\bin\Debug\net8.0\appsettings.Production.json
+C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api\bin\Debug\net8.0\MiniRater.dll
+C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api\bin\Debug\net8.0\MiniRater.pdb

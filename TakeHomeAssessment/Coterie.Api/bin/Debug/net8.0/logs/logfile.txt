@@ -59,3 +59,246 @@
 2025-04-19 14:33:52.7434 Info Request starting HTTP/2 GET https://localhost:44394/swagger/favicon-32x32.png - - - 
 2025-04-19 14:33:52.7434 Info Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A' 
 2025-04-19 14:33:52.7434 Info Request finished HTTP/2 GET https://localhost:44394/swagger/favicon-32x32.png - 200 628 image/png 2.1953ms 
+2025-04-19 20:06:06.1380 Info Request starting HTTP/2 GET https://localhost:44394/swagger - - - 
+2025-04-19 20:06:06.1637 Info Application started. Press Ctrl+C to shut down. 
+2025-04-19 20:06:06.1637 Info Hosting environment: Development 
+2025-04-19 20:06:06.1637 Info Content root path: C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api 
+2025-04-19 20:06:06.2822 Info Request starting HTTP/2 GET https://localhost:44394/swagger/index.html - - - 
+2025-04-19 20:06:06.2822 Info Request finished HTTP/2 GET https://localhost:44394/swagger - 301 - - 161.8628ms 
+2025-04-19 20:06:06.3236 Info Request finished HTTP/2 GET https://localhost:44394/swagger/index.html - 200 - text/html;charset=utf-8 41.5180ms 
+2025-04-19 20:06:06.3512 Info Request starting HTTP/2 GET https://localhost:44394/swagger/swagger-ui.css - - - 
+2025-04-19 20:06:06.3512 Info Request starting HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - - - 
+2025-04-19 20:06:06.3512 Info Request starting HTTP/2 GET https://localhost:44394/swagger/swagger-ui-bundle.js - - - 
+2025-04-19 20:06:06.3512 Info Request starting HTTP/2 GET https://localhost:44394/swagger/swagger-ui-standalone-preset.js - - - 
+2025-04-19 20:06:06.3512 Info Request finished HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript;+charset=utf-8 4.4901ms 
+2025-04-19 20:06:06.3844 Info Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A' 
+2025-04-19 20:06:06.3844 Info Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A' 
+2025-04-19 20:06:06.3948 Info Request finished HTTP/2 GET https://localhost:44394/swagger/swagger-ui.css - 200 152034 text/css 40.8696ms 
+2025-04-19 20:06:06.3948 Info Request finished HTTP/2 GET https://localhost:44394/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 46.8275ms 
+2025-04-19 20:06:06.3948 Info Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A' 
+2025-04-19 20:06:06.4111 Info Request starting HTTP/2 GET https://localhost:44394/_vs/browserLink - - - 
+2025-04-19 20:06:06.4403 Info Request finished HTTP/2 GET https://localhost:44394/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 85.5428ms 
+2025-04-19 20:06:06.4639 Info Request finished HTTP/2 GET https://localhost:44394/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 52.8675ms 
+2025-04-19 20:06:06.5536 Info Request starting HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - - - 
+2025-04-19 20:06:06.5646 Info Request finished HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 11.1311ms 
+2025-04-19 20:06:46.7461 Info Request starting HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - application/json 102 
+2025-04-19 20:06:46.7628 Info Executing endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-19 20:06:46.7867 Info Route matched with {action = "GetPremium", controller = "MiniRater"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPremium(MiniRater.Models.RateCalculatorRequestModel) on controller Coterie.Api.Controllers.MiniRaterController (Coterie.Api). 
+2025-04-19 20:06:46.8308 Info Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'. 
+2025-04-19 20:06:46.8529 Info Executed action Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api) in 61.7555ms 
+2025-04-19 20:06:46.8529 Info Executed endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-19 20:06:46.8529 Info Request finished HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - 400 - application/problem+json;+charset=utf-8 107.9147ms 
+2025-04-19 20:08:50.6296 Info Request starting HTTP/2 GET https://localhost:44394/swagger/index.html - - - 
+2025-04-19 20:08:50.6582 Info Application started. Press Ctrl+C to shut down. 
+2025-04-19 20:08:50.6582 Info Hosting environment: Development 
+2025-04-19 20:08:50.6582 Info Content root path: C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api 
+2025-04-19 20:08:50.7966 Info Request finished HTTP/2 GET https://localhost:44394/swagger/index.html - 200 - text/html;charset=utf-8 175.3271ms 
+2025-04-19 20:08:50.8115 Info Request starting HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - - - 
+2025-04-19 20:08:50.8156 Info Request finished HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript;+charset=utf-8 3.8850ms 
+2025-04-19 20:08:50.8593 Info Request starting HTTP/2 GET https://localhost:44394/_vs/browserLink - - - 
+2025-04-19 20:08:50.9063 Info Request finished HTTP/2 GET https://localhost:44394/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 47.1063ms 
+2025-04-19 20:08:51.0044 Info Request starting HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - - - 
+2025-04-19 20:08:51.0191 Info Request finished HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 14.7274ms 
+2025-04-19 20:09:14.1959 Info Request starting HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - application/json 102 
+2025-04-19 20:09:14.2148 Info Executing endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-19 20:09:14.2301 Info Route matched with {action = "GetPremium", controller = "MiniRater"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPremium(MiniRater.Models.RateCalculatorRequestModel) on controller Coterie.Api.Controllers.MiniRaterController (Coterie.Api). 
+2025-04-19 20:11:41.1163 Error Error occurred while calculating premium. System.Collections.Generic.KeyNotFoundException: The given key 'TX' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at MiniRater.Services.RateCalculatorService.CalculatePremium(RateCalculatorRequestModel request) in C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\Services\RateCalculatorService.cs:line 58
+2025-04-19 20:11:41.2179 Error An error occurred while processing the request. System.Collections.Generic.KeyNotFoundException: The given key 'TX' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at MiniRater.Services.RateCalculatorService.CalculatePremium(RateCalculatorRequestModel request) in C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\Services\RateCalculatorService.cs:line 58
+   at Coterie.Api.Controllers.MiniRaterController.GetPremium(RateCalculatorRequestModel request) in C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api\Controllers\MiniRaterController.cs:line 30
+2025-04-19 20:11:41.2281 Info Executing ObjectResult, writing value of type 'System.String'. 
+2025-04-19 20:11:41.2281 Info Executed action Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api) in 146998.7599ms 
+2025-04-19 20:11:41.2281 Info Executed endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-19 20:11:41.2281 Info Request finished HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - 500 - text/plain;+charset=utf-8 147036.8374ms 
+2025-04-19 20:14:19.5420 Info Request starting HTTP/2 GET https://localhost:44394/swagger/index.html - - - 
+2025-04-19 20:14:19.5743 Info Application started. Press Ctrl+C to shut down. 
+2025-04-19 20:14:19.5743 Info Hosting environment: Development 
+2025-04-19 20:14:19.5743 Info Content root path: C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api 
+2025-04-19 20:14:19.7414 Info Request finished HTTP/2 GET https://localhost:44394/swagger/index.html - 200 - text/html;charset=utf-8 211.2073ms 
+2025-04-19 20:14:19.7619 Info Request starting HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - - - 
+2025-04-19 20:14:19.7619 Info Request finished HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript;+charset=utf-8 3.8532ms 
+2025-04-19 20:14:19.8067 Info Request starting HTTP/2 GET https://localhost:44394/_vs/browserLink - - - 
+2025-04-19 20:14:19.8440 Info Request finished HTTP/2 GET https://localhost:44394/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 37.3701ms 
+2025-04-19 20:14:19.8784 Info Request starting HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - - - 
+2025-04-19 20:14:19.8784 Info Request finished HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 11.6765ms 
+2025-04-19 20:14:39.2145 Info Request starting HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - application/json 102 
+2025-04-19 20:14:39.2240 Info Executing endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-19 20:14:39.2413 Info Route matched with {action = "GetPremium", controller = "MiniRater"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPremium(MiniRater.Models.RateCalculatorRequestModel) on controller Coterie.Api.Controllers.MiniRaterController (Coterie.Api). 
+2025-04-19 20:14:45.2052 Error Error occurred while calculating premium. System.Collections.Generic.KeyNotFoundException: The given key 'TX' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at MiniRater.Services.RateCalculatorService.CalculatePremium(RateCalculatorRequestModel request) in C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\Services\RateCalculatorService.cs:line 58
+2025-04-19 20:14:54.5108 Error An error occurred while processing the request. System.Collections.Generic.KeyNotFoundException: The given key 'TX' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at MiniRater.Services.RateCalculatorService.CalculatePremium(RateCalculatorRequestModel request) in C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\Services\RateCalculatorService.cs:line 58
+   at Coterie.Api.Controllers.MiniRaterController.GetPremium(RateCalculatorRequestModel request) in C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api\Controllers\MiniRaterController.cs:line 30
+2025-04-19 20:14:54.5324 Info Executing ObjectResult, writing value of type 'System.String'. 
+2025-04-19 20:14:54.5324 Info Executed action Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api) in 15292.0977ms 
+2025-04-19 20:14:54.5324 Info Executed endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-19 20:14:54.5324 Info Request finished HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - 500 - text/plain;+charset=utf-8 15323.5517ms 
+2025-04-19 20:14:58.2063 Info Request starting HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - application/json 102 
+2025-04-19 20:14:58.2063 Info Executing endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-19 20:14:58.2063 Info Route matched with {action = "GetPremium", controller = "MiniRater"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPremium(MiniRater.Models.RateCalculatorRequestModel) on controller Coterie.Api.Controllers.MiniRaterController (Coterie.Api). 
+2025-04-19 20:22:55.2255 Info Request starting HTTP/2 GET https://localhost:44394/swagger/index.html - - - 
+2025-04-19 20:22:55.2416 Info Application started. Press Ctrl+C to shut down. 
+2025-04-19 20:22:55.2416 Info Hosting environment: Development 
+2025-04-19 20:22:55.2416 Info Content root path: C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api 
+2025-04-19 20:22:55.4015 Info Request finished HTTP/2 GET https://localhost:44394/swagger/index.html - 200 - text/html;charset=utf-8 187.7284ms 
+2025-04-19 20:22:55.4137 Info Request starting HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - - - 
+2025-04-19 20:22:55.4137 Info Request finished HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript;+charset=utf-8 2.9403ms 
+2025-04-19 20:22:55.4547 Info Request starting HTTP/2 GET https://localhost:44394/_vs/browserLink - - - 
+2025-04-19 20:22:55.4967 Info Request finished HTTP/2 GET https://localhost:44394/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 42.0465ms 
+2025-04-19 20:22:55.5241 Info Request starting HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - - - 
+2025-04-19 20:22:55.5359 Info Request finished HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 11.8237ms 
+2025-04-19 20:23:20.4940 Info Request starting HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - application/json 102 
+2025-04-19 20:23:20.5125 Info Executing endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-19 20:23:20.5273 Info Route matched with {action = "GetPremium", controller = "MiniRater"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPremium(MiniRater.Models.RateCalculatorRequestModel) on controller Coterie.Api.Controllers.MiniRaterController (Coterie.Api). 
+2025-04-19 20:23:25.8436 Error Error occurred while calculating premium. System.Collections.Generic.KeyNotFoundException: The given key 'Plumber' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at MiniRater.Services.RateCalculatorService.CalculatePremium(RateCalculatorRequestModel request) in C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\Services\RateCalculatorService.cs:line 56
+2025-04-19 20:23:25.9092 Error An error occurred while processing the request. System.Collections.Generic.KeyNotFoundException: The given key 'Plumber' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at MiniRater.Services.RateCalculatorService.CalculatePremium(RateCalculatorRequestModel request) in C:\Projects\CoterieAPI\TakeHomeAssessment\MiniRater\Services\RateCalculatorService.cs:line 56
+   at Coterie.Api.Controllers.MiniRaterController.GetPremium(RateCalculatorRequestModel request) in C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api\Controllers\MiniRaterController.cs:line 30
+2025-04-19 20:23:25.9092 Info Executing ObjectResult, writing value of type 'System.String'. 
+2025-04-19 20:23:25.9092 Info Executed action Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api) in 5388.4004ms 
+2025-04-19 20:23:25.9092 Info Executed endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-19 20:23:25.9092 Info Request finished HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - 500 - text/plain;+charset=utf-8 5426.4503ms 
+2025-04-19 20:23:39.6016 Info Request starting HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - application/json 102 
+2025-04-19 20:23:39.6016 Info Executing endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-19 20:23:39.6016 Info Route matched with {action = "GetPremium", controller = "MiniRater"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPremium(MiniRater.Models.RateCalculatorRequestModel) on controller Coterie.Api.Controllers.MiniRaterController (Coterie.Api). 
+2025-04-19 20:24:52.5973 Info Request starting HTTP/2 GET https://localhost:44394/swagger/index.html - - - 
+2025-04-19 20:24:52.6133 Info Application started. Press Ctrl+C to shut down. 
+2025-04-19 20:24:52.6133 Info Hosting environment: Development 
+2025-04-19 20:24:52.6133 Info Content root path: C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api 
+2025-04-19 20:24:52.7640 Info Request finished HTTP/2 GET https://localhost:44394/swagger/index.html - 200 - text/html;charset=utf-8 180.4198ms 
+2025-04-19 20:24:52.7793 Info Request starting HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - - - 
+2025-04-19 20:24:52.7832 Info Request finished HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript;+charset=utf-8 2.6877ms 
+2025-04-19 20:24:52.8201 Info Request starting HTTP/2 GET https://localhost:44394/_vs/browserLink - - - 
+2025-04-19 20:24:52.8663 Info Request finished HTTP/2 GET https://localhost:44394/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 46.2234ms 
+2025-04-19 20:24:52.9013 Info Request starting HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - - - 
+2025-04-19 20:24:52.9142 Info Request finished HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 12.9856ms 
+2025-04-19 20:25:11.9029 Info Request starting HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - application/json 102 
+2025-04-19 20:25:11.9138 Info Executing endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-19 20:25:11.9315 Info Route matched with {action = "GetPremium", controller = "MiniRater"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPremium(MiniRater.Models.RateCalculatorRequestModel) on controller Coterie.Api.Controllers.MiniRaterController (Coterie.Api). 
+2025-04-19 20:25:13.9193 Info Executing OkObjectResult, writing value of type 'MiniRater.Models.RateCalculatorResponseModel'. 
+2025-04-19 20:25:13.9284 Info Executed action Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api) in 1993.5763ms 
+2025-04-19 20:25:13.9284 Info Executed endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-19 20:25:13.9284 Info Request finished HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - 200 - application/json;+charset=utf-8 2026.0881ms 
+2025-04-19 20:58:00.6039 Info Request starting HTTP/2 GET https://localhost:44394/swagger/index.html - - - 
+2025-04-19 20:58:00.6238 Info Application started. Press Ctrl+C to shut down. 
+2025-04-19 20:58:00.6238 Info Hosting environment: Development 
+2025-04-19 20:58:00.6238 Info Content root path: C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api 
+2025-04-19 20:58:00.7907 Info Request finished HTTP/2 GET https://localhost:44394/swagger/index.html - 200 - text/html;charset=utf-8 196.9931ms 
+2025-04-19 20:58:00.8096 Info Request starting HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - - - 
+2025-04-19 20:58:00.8096 Info Request finished HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript;+charset=utf-8 4.7918ms 
+2025-04-19 20:58:00.8697 Info Request starting HTTP/2 GET https://localhost:44394/_vs/browserLink - - - 
+2025-04-19 20:58:00.9234 Info Request finished HTTP/2 GET https://localhost:44394/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 53.8511ms 
+2025-04-19 20:58:00.9533 Info Request starting HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - - - 
+2025-04-19 20:58:00.9719 Info Request finished HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 18.5985ms 
+2025-04-19 20:58:16.8574 Info Request starting HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - application/json 102 
+2025-04-19 20:58:16.8701 Info Executing endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-19 20:58:16.8910 Info Route matched with {action = "GetPremium", controller = "MiniRater"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPremium(MiniRater.Models.RateCalculatorRequestModel) on controller Coterie.Api.Controllers.MiniRaterController (Coterie.Api). 
+2025-04-19 20:58:19.9387 Info Executing OkObjectResult, writing value of type 'MiniRater.Models.RateCalculatorResponseModel'. 
+2025-04-19 20:58:19.9483 Info Executed action Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api) in 3053.9123ms 
+2025-04-19 20:58:19.9483 Info Executed endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-19 20:58:19.9483 Info Request finished HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - 200 - application/json;+charset=utf-8 3091.4395ms 
+2025-04-19 21:10:03.1317 Info Request starting HTTP/2 GET https://localhost:44394/swagger/index.html - - - 
+2025-04-19 21:10:03.1469 Info Application started. Press Ctrl+C to shut down. 
+2025-04-19 21:10:03.1611 Info Hosting environment: Development 
+2025-04-19 21:10:03.1611 Info Content root path: C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api 
+2025-04-19 21:10:03.3200 Info Request finished HTTP/2 GET https://localhost:44394/swagger/index.html - 200 - text/html;charset=utf-8 199.3524ms 
+2025-04-19 21:10:03.3323 Info Request starting HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - - - 
+2025-04-19 21:10:03.3323 Info Request finished HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript;+charset=utf-8 3.8649ms 
+2025-04-19 21:10:03.3754 Info Request starting HTTP/2 GET https://localhost:44394/_vs/browserLink - - - 
+2025-04-19 21:10:03.4119 Info Request finished HTTP/2 GET https://localhost:44394/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 36.6069ms 
+2025-04-19 21:10:03.4416 Info Request starting HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - - - 
+2025-04-19 21:10:03.4521 Info Request finished HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 10.5178ms 
+2025-04-19 21:10:51.4771 Info Request starting HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - application/json 94 
+2025-04-19 21:10:51.4967 Info Executing endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-19 21:10:51.5143 Info Route matched with {action = "GetPremium", controller = "MiniRater"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPremium(MiniRater.Models.RateCalculatorRequestModel) on controller Coterie.Api.Controllers.MiniRaterController (Coterie.Api). 
+2025-04-19 21:12:05.9153 Info Executing OkObjectResult, writing value of type 'MiniRater.Models.RateCalculatorResponseModel'. 
+2025-04-19 21:12:05.9406 Info Executed action Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api) in 74421.9801ms 
+2025-04-19 21:12:05.9406 Info Executed endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-19 21:12:05.9406 Info Request finished HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - 200 - application/json;+charset=utf-8 74463.6462ms 
+2025-04-20 10:08:45.9279 Info Request starting HTTP/2 GET https://localhost:44394/swagger/index.html - - - 
+2025-04-20 10:08:45.9461 Info Application started. Press Ctrl+C to shut down. 
+2025-04-20 10:08:45.9461 Info Hosting environment: Development 
+2025-04-20 10:08:45.9461 Info Content root path: C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api 
+2025-04-20 10:08:46.1268 Info Request finished HTTP/2 GET https://localhost:44394/swagger/index.html - 200 - text/html;charset=utf-8 208.7215ms 
+2025-04-20 10:08:46.1268 Info Request starting HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - - - 
+2025-04-20 10:08:46.1445 Info Request finished HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript;+charset=utf-8 3.2594ms 
+2025-04-20 10:08:46.1861 Info Request starting HTTP/2 GET https://localhost:44394/_vs/browserLink - - - 
+2025-04-20 10:08:46.2260 Info Request finished HTTP/2 GET https://localhost:44394/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 39.9096ms 
+2025-04-20 10:08:46.2541 Info Request starting HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - - - 
+2025-04-20 10:08:46.2683 Info Request finished HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 14.1491ms 
+2025-04-20 10:09:10.9703 Info Request starting HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - application/json 102 
+2025-04-20 10:10:16.7934 Error An unhandled exception has occurred while executing the request. System.NullReferenceException: Object reference not set to an instance of an object.
+   at Coterie.Api.ExceptionHelpers.ErrorHandlerMiddleware.InvokeAsync(HttpContext context) in C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api\ExceptionHelpers\ErrorHandlerMiddleware.cs:line 25
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-04-20 10:10:16.8361 Info Request finished HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - 500 - text/plain;+charset=utf-8 65868.9571ms 
+2025-04-20 10:16:24.3016 Info Request starting HTTP/2 GET https://localhost:44394/swagger/index.html - - - 
+2025-04-20 10:16:24.3190 Info Application started. Press Ctrl+C to shut down. 
+2025-04-20 10:16:24.3274 Info Hosting environment: Development 
+2025-04-20 10:16:24.3274 Info Content root path: C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api 
+2025-04-20 10:16:24.4729 Info Request finished HTTP/2 GET https://localhost:44394/swagger/index.html - 200 - text/html;charset=utf-8 181.8643ms 
+2025-04-20 10:16:24.4903 Info Request starting HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - - - 
+2025-04-20 10:16:24.4903 Info Request finished HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript;+charset=utf-8 2.8886ms 
+2025-04-20 10:16:24.5309 Info Request starting HTTP/2 GET https://localhost:44394/_vs/browserLink - - - 
+2025-04-20 10:16:24.5710 Info Request finished HTTP/2 GET https://localhost:44394/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 40.1321ms 
+2025-04-20 10:16:24.6058 Info Request starting HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - - - 
+2025-04-20 10:16:24.6220 Info Request finished HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 16.2271ms 
+2025-04-20 10:16:39.1460 Info Request starting HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - application/json 102 
+2025-04-20 10:16:39.1556 Info Executing endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-20 10:16:39.1819 Info Route matched with {action = "GetPremium", controller = "MiniRater"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPremium(MiniRater.Models.RateCalculatorRequestModel) on controller Coterie.Api.Controllers.MiniRaterController (Coterie.Api). 
+2025-04-20 10:16:44.1316 Info Executing OkObjectResult, writing value of type 'MiniRater.Models.RateCalculatorResponseModel'. 
+2025-04-20 10:16:44.1415 Info Executed action Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api) in 4956.2414ms 
+2025-04-20 10:16:44.1415 Info Executed endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-20 10:16:44.1415 Info Request finished HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - 200 - application/json;+charset=utf-8 4996.4079ms 
+2025-04-20 10:16:57.2767 Info Request starting HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - application/json 95 
+2025-04-20 10:16:57.2767 Info Executing endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-20 10:16:57.2767 Info Route matched with {action = "GetPremium", controller = "MiniRater"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPremium(MiniRater.Models.RateCalculatorRequestModel) on controller Coterie.Api.Controllers.MiniRaterController (Coterie.Api). 
+2025-04-20 10:16:59.8828 Warn Incorrect business type:  
+2025-04-20 10:16:59.8838 Error Error calculating premium for business:  
+2025-04-20 10:16:59.8838 Info Executing BadRequestObjectResult, writing value of type 'MiniRater.Models.RateCalculatorResponseModel'. 
+2025-04-20 10:16:59.8838 Info Executed action Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api) in 2608.6779ms 
+2025-04-20 10:16:59.8838 Info Executed endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-20 10:16:59.8838 Info Request finished HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - 400 - application/json;+charset=utf-8 2611.5981ms 
+2025-04-20 10:17:36.7318 Info Request starting HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - application/json 95 
+2025-04-20 10:17:36.7318 Info Executing endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-20 10:17:36.7318 Info Route matched with {action = "GetPremium", controller = "MiniRater"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPremium(MiniRater.Models.RateCalculatorRequestModel) on controller Coterie.Api.Controllers.MiniRaterController (Coterie.Api). 
+2025-04-20 10:17:48.7944 Warn Incorrect business type:  
+2025-04-20 10:17:56.2644 Error Error calculating premium for business:  
+2025-04-20 10:18:28.0092 Info Executing BadRequestObjectResult, writing value of type 'MiniRater.Models.RateCalculatorResponseModel'. 
+2025-04-20 10:18:28.0092 Info Executed action Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api) in 51280.4225ms 
+2025-04-20 10:18:28.0092 Info Executed endpoint 'Coterie.Api.Controllers.MiniRaterController.GetPremium (Coterie.Api)' 
+2025-04-20 10:18:28.0092 Info Request finished HTTP/2 POST https://localhost:44394/api/MiniRater/GetPremium - 400 - application/json;+charset=utf-8 51288.5574ms 
+2025-04-20 10:32:40.6574 Info Request starting HTTP/2 GET https://localhost:44394/swagger/index.html - - - 
+2025-04-20 10:32:40.6785 Info Application started. Press Ctrl+C to shut down. 
+2025-04-20 10:32:40.6808 Info Hosting environment: Development 
+2025-04-20 10:32:40.6808 Info Content root path: C:\Projects\CoterieAPI\TakeHomeAssessment\Coterie.Api 
+2025-04-20 10:32:40.8448 Info Request finished HTTP/2 GET https://localhost:44394/swagger/index.html - 200 - text/html;charset=utf-8 200.6639ms 
+2025-04-20 10:32:40.8448 Info Request starting HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - - - 
+2025-04-20 10:32:40.8548 Info Request finished HTTP/2 GET https://localhost:44394/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript;+charset=utf-8 3.4473ms 
+2025-04-20 10:32:40.8948 Info Request starting HTTP/2 GET https://localhost:44394/_vs/browserLink - - - 
+2025-04-20 10:32:40.9457 Info Request finished HTTP/2 GET https://localhost:44394/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 50.9761ms 
+2025-04-20 10:32:40.9739 Info Request starting HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - - - 
+2025-04-20 10:32:40.9844 Info Request finished HTTP/2 GET https://localhost:44394/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 10.5702ms 
+2025-04-20 10:33:32.9866 Info Request starting HTTP/2 POST https://localhost:44394/api/MiniRater/GetRates - application/json 74 
+2025-04-20 10:33:33.0044 Info Executing endpoint 'Coterie.Api.Controllers.MiniRaterController.GetRates (Coterie.Api)' 
+2025-04-20 10:33:33.0212 Info Route matched with {action = "GetRates", controller = "MiniRater"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetRates(MiniRater.Models.RateCalculatorRequestModel) on controller Coterie.Api.Controllers.MiniRaterController (Coterie.Api). 
+2025-04-20 10:33:44.5957 Warn Incorrect business type: string 
+2025-04-20 10:33:49.9908 Error Error calculating premium for business: string 
+2025-04-20 10:33:52.5072 Info Executing BadRequestObjectResult, writing value of type 'MiniRater.Models.RateCalculatorResponseModel'. 
+2025-04-20 10:33:52.5072 Info Executed action Coterie.Api.Controllers.MiniRaterController.GetRates (Coterie.Api) in 19490.8746ms 
+2025-04-20 10:33:52.5072 Info Executed endpoint 'Coterie.Api.Controllers.MiniRaterController.GetRates (Coterie.Api)' 
+2025-04-20 10:33:52.5072 Info Request finished HTTP/2 POST https://localhost:44394/api/MiniRater/GetRates - 400 - application/json;+charset=utf-8 19529.4255ms 
+2025-04-20 10:34:07.5282 Info Request starting HTTP/2 POST https://localhost:44394/api/MiniRater/GetRates - application/json 0 
+2025-04-20 10:34:07.5282 Info Executing endpoint 'Coterie.Api.Controllers.MiniRaterController.GetRates (Coterie.Api)' 
+2025-04-20 10:34:07.5282 Info Route matched with {action = "GetRates", controller = "MiniRater"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetRates(MiniRater.Models.RateCalculatorRequestModel) on controller Coterie.Api.Controllers.MiniRaterController (Coterie.Api). 
+2025-04-20 10:34:07.5357 Info Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'. 
+2025-04-20 10:34:07.5593 Info Executed action Coterie.Api.Controllers.MiniRaterController.GetRates (Coterie.Api) in 27.9311ms 
+2025-04-20 10:34:07.5593 Info Executed endpoint 'Coterie.Api.Controllers.MiniRaterController.GetRates (Coterie.Api)' 
+2025-04-20 10:34:07.5593 Info Request finished HTTP/2 POST https://localhost:44394/api/MiniRater/GetRates - 400 - application/problem+json;+charset=utf-8 31.5613ms 
